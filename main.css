@@ -1,0 +1,29 @@
+
+li {
+  border: 4px double black;
+
+  display: inline-block;
+  width: 30%;
+
+  margin: 0 0 1% 0;
+  padding:4px;
+  text-align: center;
+
+}
+
+a {
+  color: black;
+  text-align: center
+
+.block{
+  border: 4px double black;
+  p
+}
+}
+nav {
+  width: 101%;
+    padding: 2%;
+    list-style: none;
+    text-align: left;
+    overflow: hidden;
+}
